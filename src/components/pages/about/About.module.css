@@ -1,0 +1,30 @@
+.particles {
+    position: fixed;
+    right: 0;
+    top: 60px;
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+  }
+
+
+  .contactButton {
+    display: inline-block;
+    padding: 2px;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: #fff;
+    background-color: rgb(53, 98, 223);
+    z-index: 1;
+  }
+
+  .contactButton:hover {
+    background-color: #fff;
+    color: rgb(53, 98, 223);
+  }
