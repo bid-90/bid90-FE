@@ -33,16 +33,14 @@ class Home extends React.Component {
   <h1 style={{color: "white", fontSize:"4vw"}}>Hello</h1>
   <Typing.Delay ms={1000} />
   <Typing.Backspace count={5} ms={1000}/>
-  <h1 style={{color: "white", fontSize:"4vw"}}>I'm BID.
+  <h1 style={{color: "white", fontSize:"4vw"}}>I'm BID,
   <Typing.Delay ms={1000} />
   <Typing.Backspace count={4} ms={1000}/>
-  Bradea Ioan Daniel.
+  Bradea Ioan Daniel,
   </h1>
   <Typing.Delay ms={1000} />
-  <h1 style={{color: "white", fontSize:"3vw"}}>And I'm boss the boss mafiot.</h1>
-  <Typing.Delay ms={1000} />
-  <Typing.Backspace count={29} ms={1000}/>
-  <h1 style={{color: "white", fontSize:"3vw"}}>:))</h1>
+  <h1 style={{color: "white", fontSize:"3vw"}}>I'm a sofware developer.</h1>
+
   
   </Typing>
   </Col>
