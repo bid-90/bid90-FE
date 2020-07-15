@@ -1,3 +1,3 @@
 export const config = {
-    apiUrl : "app-bid90-be",
+    apiUrl : "http://bid90.ro:8081",
 }
